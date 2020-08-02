@@ -1,7 +1,22 @@
-### Hi there 👋
+### Hi there 👋, I am Catalin Pit!
+###### *Software Engineer*
+
+A Software Engineer with industry experience building web application used by millions of people. Specializing in JavaScript technologies and AWS. Professional experience working with Node.Js, AWS and Drone. 
+
+* Frontend: HTML, CSS, SASS, Vanilla JavaScript, Pug
+* Backend: Java, NodeJS, Docker
+* Cloud Computing: AWS
+* CI/CD: Drone, Jenkins 
+
+
+### You can also find me on
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/catalinpit/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/catalinmpit/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@catalinmpit)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://catalins.tech)  
+
+### My GitHub stats
+![Github stats](https://github-readme-stats.vercel.app/api?username=catalinpit&show_icons=true)
 
 <!--
-**Ashutosh5370/Ashutosh5370** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**catalinpit/catalinpit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
