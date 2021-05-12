@@ -19,7 +19,7 @@ A Software Engineer with industry experience building web application . Speciali
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...Angular Portfolio
+- 🔭 I’m currently working on ... Portfolio
 - 🌱 I’m currently learning ...Angular and CSS framework (TailwindCss)
 - 🤔 I’m looking for help with ...Azure
 - 💬 Ask me about ... Angular
