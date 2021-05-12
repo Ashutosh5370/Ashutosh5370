@@ -3,9 +3,9 @@
 
 A Software Engineer with industry experience building web application . Specializing in JavaScript technologies .Professional experience working with Node.Js. 
 
-* Frontend: HTML, CSS, SASS, Vanilla JavaScript, Angular, React , Bulma 
+* Frontend: HTML, CSS, SASS, Vanilla JavaScript, Angular, React , Bulma , TailwindCss
 * Backend: Java, NodeJS, Python
-* Cloud Computing: AWS
+* Cloud Computing: Azure
 
 
 
@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...Angular Portfolio
 - 🌱 I’m currently learning ...Angular and CSS framework (Bulma)
 - 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ...Bulma
+- 🤔 I’m looking for help with ...Azure
 - 💬 Ask me about ... Angular
 - 📫 How to reach me: ...
